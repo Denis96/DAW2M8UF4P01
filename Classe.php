@@ -8,6 +8,9 @@ class Classe {
     public function borrar() {
         
     }
+    public function modificar() {
+        
+    }
             
     function __construct($variable) {
         $this->variable = $variable;
