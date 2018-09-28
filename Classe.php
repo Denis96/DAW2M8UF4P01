@@ -12,7 +12,7 @@ class Classe {
         
     }
     public function fantasma() {
-        echo "Hello world!";
+        echo "Hello new world!";
     }
             
     function __construct($variable) {
