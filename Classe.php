@@ -11,6 +11,9 @@ class Classe {
     public function modificar() {
         
     }
+    public function fantasma() {
+        
+    }
             
     function __construct($variable) {
         $this->variable = $variable;
